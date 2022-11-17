@@ -1,6 +1,6 @@
 {
  "name": "Safelinks",
- "short_name": "safelinks",
+ "short_name": "Safelinks",
  "description": "Everything you need to know",
  "scope": "https://www.safelinks.my.id/",
  "lang": "en",
@@ -47,5 +47,6 @@
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0"
-  }]
+  }],
+    "start_url": "/?utm_source=launcher"
 }
